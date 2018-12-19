@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Histogram</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="allow_access">You need to allow access permissions</string>
+    <string name="deny">Permission Denied</string>
+    <string name="granted">Permission Granted</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="denied_never_ask_msg">You have denied the permission for getting %s access.. Please go to app appSettings and allow permission</string>
+    <string name="denied_never_ask_title">Unable to get %s access </string>
+</resources>
